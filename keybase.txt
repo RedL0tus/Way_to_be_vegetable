@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/kaymw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ikay.work
+  * I am kaymw (https://keybase.io/kaymw) on keybase.
+  * I have a public key with fingerprint 39B2 9DC9 5B30 8595 FCED  14AE 547E 5906 116A 1966
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207b0b8dd683818f37d954c087bbbccb3c34e1593752dfdfc3a9f8c08aab9b29a40a",
+            "fingerprint": "39b29dc95b308595fced14ae547e5906116a1966",
+            "host": "keybase.io",
+            "key_id": "547e5906116a1966",
+            "kid": "0101249800fa13683e90a1fbc12f3ac31b0ba37d4b4c763e47db0b8335e6a6ad6f170a",
+            "uid": "82e7db188518712005ede059cc5d3d19",
+            "username": "kaymw"
+        },
+        "service": {
+            "hostname": "ikay.work",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465927386,
+    "expire_in": 157680000,
+    "prev": "b49f4f5ad8e868765cab161b5895c976ead2045f0e6f96365b5803bb2a5570f5",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtUltoFUcYPkdN4hUb6NHGG3Gbkj5EmdnZmZ05KijeQJ9MU8Snk7ltzubo7ume
+zYkhjWChLcEQRAV9ENEEr7GktD4oRKyCMepDBRtKoRVsgxBBBbVQTaOdDclbn4b5
+v8t8388cXjQ7NTfddGBPZXVrjZe+Py5Su5u3jXVaIlQdVrbTKuipQ+9VuhTnCr6y
+shaANnAFEFQpQhGF1EOuYtiRgLpCCCkFksjREDPkYlt5ypOIM48anHPBhM24A7jV
+YHl+0KKjYuQHsbFFCaIkwwIBihn2pFbQ4Ro7rsYMEAgJh4wQI8yHpURhwgle0mv9
+0MzMJTcV73/4M7lNcodRADwOkYmuGeDQExLaHuISQdOJmyqOcKRLkHZclbRECGvC
+CVfEg+5U7rYpO2prQ4CUYkhdsxKAtdIAMymxQgqyhFjSUcD36SQr79jXbnU1WGZU
+9qVOtprUmIZ9g69tD6OCURWjMA5luNeM83FcLGUTWdxRTHjtWuSmHXLCD5TZoFGU
+dVTyw8DKQsOUsZ9YQodgZruIkgZL7y/6kc75CQO7xGwAgOQdXTaWwmGe42GuqKbk
+M+oSLLmABApMGZbMJZorGzjYA5p4jCCCDQKQEDbH2AUetpJSXwShMTeuMW8xpiW/
+JeBxW6Strvnd6RVzUum5qcqKWcnnSs2f98HMjzs2XvXvwneFnnt5++Tf2ZsN+fM7
+RsOtAXnTP1ozid22yx+u+6dv0+Pvv+kH116MP7n43RW95NKza4MXNtmfTz54+Hb/
+H712Y8/g/cmRH/JjWx/f7T9b8eL5r7s3L75Sf/3c62VjA/e+Tusjy48P1V18mr3x
+Gz00HB5d/z5fdXWiO2i+MbI9c/NUWj54Vbe0dcfD8Yqjo8MLPvnz/fpBp77to79q
+e0tD3XO+be6b3Nj6dg9/tGhX5kx59ZED/avWtE482rjUzWV//Op09bCsLWy+e7tc
+9dNQ/brz/OM7L7cfa+qbvaaq8vfMhXcnRsItxzNf1nRX3tpA2ifs6tqBE8VfDjbu
+hHd2/kw+bcxEK/8D
+=+CK3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaymw
+
+==================================================================

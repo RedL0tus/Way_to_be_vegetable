@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sth.</title>
+  <subtitle>Just a blog.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://v2bv.win/"/>
+  <updated>2016-09-19T05:59:34.511Z</updated>
+  <id>https://v2bv.win/</id>
+  
+  <author>
+    <name>Kay Miller</name>
+    <email>i@v2bv.win</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我胡汉三又回来啦（误</title>
+    <link href="https://v2bv.win/2016/09/18/comeback/"/>
+    <id>https://v2bv.win/2016/09/18/comeback/</id>
+    <published>2016-09-18T22:37:12.000Z</published>
+    <updated>2016-09-19T05:59:34.511Z</updated>
+    
+    <content type="html"><![CDATA[<p>嗯，之前因为种种原因没法更新博客，现在我又回来啦qwq<br>（当然我不是胡汉三<br><a id="more"></a>  </p>
+<p>上个月初到的美帝，然而没带电脑 Orz<br>刚来的几天里连手机都没有。  </p>
+<p>后来在 <a href="https://amazon.com/" target="_blank" rel="external">Amazon</a> 上定了一部 Nexus 5X<br>磨叽的 <a href="https://amazon.com/" target="_blank" rel="external">Amazon</a> 把手机送过来花了将近十天也是可怕 Orz</p>
+<p>到了以后才发现 <a href="https://store.google.com/" target="_blank" rel="external">Google Store</a> 上买更便宜而且送货更快 Orz<br>（我运营商选的是 <a href="https://fi.google.com/" target="_blank" rel="external">Google Project Fi</a>，如果在官方商城买会有优惠）</p>
+<p>只有部手机拿来写博客还是比较麻烦的（毕竟我用的是 <a href="https://hexo.io" target="_blank" rel="external">Hexo</a></p>
+<p><del>其实还去买了个耳机，然而那个线……过敏到现在还没完全好</del></p>
+<hr>
+<p>之后又去渣想官网买了新的笔记本（真是美帝良心<br>不过他们的订单系统也是蛮神奇的。</p>
+<pre><code>8月28日      下单  
+8月29日      说 9月12日 发货  
+8月30日      订单被冻结，说扣款出现问题  
+8月31日      联系客服，解决了上面的问题，重新变为 9月12日 发货
+9月01日-09日 OVP 上显示为 9月23日 发货（噫
+9月10日      变为 9月12日 发货
+9月11日      变为 9月13日 发货
+9月12日      依旧是 9月13日 发货
+9月13日      突然跟我说 9月9日 已经发货了，都已经从香港到美帝了
+9月14日      中转中（
+9月15日      到货
+</code></pre><p><del>我只能说我大概是穿越了世界线又有 READING;STEINER 能力吧</del></p>
+<p>机器倒是蛮不错的 qwq<br>以后有空<del>水</del>写一篇博文来讲讲。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;嗯，之前因为种种原因没法更新博客，现在我又回来啦qwq&lt;br&gt;（当然我不是胡汉三&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://v2bv.win/tags/blog/"/>
+    
+      <category term="water" scheme="https://v2bv.win/tags/water/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重建了一下博客</title>
+    <link href="https://v2bv.win/2016/07/18/rebuilt-blog/"/>
+    <id>https://v2bv.win/2016/07/18/rebuilt-blog/</id>
+    <published>2016-07-18T09:45:04.000Z</published>
+    <updated>2016-09-19T05:40:56.833Z</updated>
+    
+    <content type="html"><![CDATA[<p>额…似乎有段时间没写博客了。  </p>
+<p>之前被我弄丢了 <a href="https://hexo.io" target="_blank" rel="external">Hexo</a> 的配置文件（扔 Gentoo 的 /home 里了，没备份然后被我格了）（没错我把 Gentoo 格了，我这渣本上跑 Gentoo 还是有些难以忍受），然后又没钱去租 VPS 搭建动态博客（或者就算搭了效果也不见得会比用 Hexo+GitHub Pages+CloudFlare 效果好）<br><a id="more"></a></p>
+<p>然后就重新建了个博客，依旧用的原来的搭配，不过换了个主题（换成了 yscoder 做的 <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a> ）<del>（Material Design 什么的最好了）</del>，略做了些修改。</p>
+<p>新的配置+文章源文件（.md 文档）放在<a href="https://github.com/RedL0tus/" target="_blank" rel="external">这里</a>。<del>（图省事把 node_modules 也扔进去了）</del>（逃</p>
+<p>然后在配置时也撞了几个坑，不过至少能用了2333333</p>
+<h2 id="TODO"><a href="#TODO" class="headerlink" title="#TODO"></a>#TODO</h2><ul>
+<li><p><del>Links：</del><br><del>当然是友链啦~（虽然我觉得没有多少人会愿意跟我加友链qwq</del></p><p style="color:#58FA58">DONE</p> (<a href="https://v2bv.win/links/">Link</a>)<p></p>
+</li>
+<li><p><del>关于页面：</del><br><del>既然是个博客啦，怎么能少了关于页面 ~</del></p><p style="color:#58FA58">DONE</p> (<a href="https://v2bv.win/About/">Link</a>)<p></p>
+</li>
+<li><p>各种细小的修改：<br>这个就有些多啦，不一一细说了~</p>
+</li>
+</ul>
+<p>以上</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;额…似乎有段时间没写博客了。  &lt;/p&gt;
+&lt;p&gt;之前被我弄丢了 &lt;a href=&quot;https://hexo.io&quot;&gt;Hexo&lt;/a&gt; 的配置文件（扔 Gentoo 的 /home 里了，没备份然后被我格了）（没错我把 Gentoo 格了，我这渣本上跑 Gentoo 还是有些难以忍受），然后又没钱去租 VPS 搭建动态博客（或者就算搭了效果也不见得会比用 Hexo+GitHub Pages+CloudFlare 效果好）&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://v2bv.win/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://v2bv.win/2016/07/17/hello-world/"/>
+    <id>https://v2bv.win/2016/07/17/hello-world/</id>
+    <published>2016-07-18T02:30:47.000Z</published>
+    <updated>2016-09-19T06:01:53.424Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
