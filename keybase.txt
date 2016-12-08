@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/kaymw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://v2bv.win
+  * I am kaymw (https://keybase.io/kaymw) on keybase.
+  * I have a public key with fingerprint 39B2 9DC9 5B30 8595 FCED  14AE 547E 5906 116A 1966
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207b0b8dd683818f37d954c087bbbccb3c34e1593752dfdfc3a9f8c08aab9b29a40a",
+            "fingerprint": "39b29dc95b308595fced14ae547e5906116a1966",
+            "host": "keybase.io",
+            "key_id": "547e5906116a1966",
+            "kid": "0101249800fa13683e90a1fbc12f3ac31b0ba37d4b4c763e47db0b8335e6a6ad6f170a",
+            "uid": "82e7db188518712005ede059cc5d3d19",
+            "username": "kaymw"
+        },
+        "revoke": {
+            "sig_ids": [
+                "9e9920d306acf8e7630624f5de1908a87d3ba54c2a5000f52bd0dc6af3e5f4ed0f"
+            ]
+        },
+        "service": {
+            "hostname": "v2bv.win",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481232450,
+    "expire_in": 157680000,
+    "prev": "f6b3f85b3861be71ee2ea9f5a18d332ff1c01716bb3727bab0079eafc224b7c4",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.60
+Comment: https://keybase.io/crypto
+
+yMKTAnicbZJdbBVFFMfvLQJarBZCQB986CQagk0zs7OzO3Mf8DvRQnzQihh6vczH
+mbLecvd2d3trbQAhRnjQ8IAkJjWiiUmxD0QfAImJ0GoTAzGKmvBlao2i90WJ2Ggg
+YJ29gTefNjvzP//zO/85X3QsKrQX+3a8sGT5S/fa4ump34cLm5765tExpGIzikpj
+qAqtDwwaSLNKNTKohDDxcKiw4sYEnHLCLQ2NYL7GPFRKaa2opj4QJmjIPGON1VQK
+y929lEooT0gfS9SNbFQbgKSeRLXM2dL8xmjBFMWcCWY1GOJLYH4ITOCAkEASEQSu
+cGuc5hUOTskUeqLYnbmfSgvvf/S3uB25LzjGVhLq0EFgSazSxLNUakrcTNKN4itf
+hwEFPzT5lJQyCGQgTWBJ2OIebtlxD5yAcM4ID10kmIEBzITWzFBDRC5MIanJbZCz
+ytFtI2h7N0qgEVchDzWNBhxxikqbkQAhPGwoDqS2HFx3HHi+ZQaIcKnx0FAlXcKe
+ZNjhM08ZbHQgLQVmfTDYorLzdu0akW6Z5xHdbN3wVKNnJKo5oHoSZ7GOB93p1iyr
+p6WcKBut57IRUJWbBhUV1Yx7HFfRgCSN4hoqEafUWZQ7Ep8Tj3o+w90IXq5HCVSi
+XMHCwIWLcd4HGs7SBopa7h6UB0RBSAA8cJvAJOGGUs9aojEJSaAUDb1QSYVxKEBa
+7Xm+CrWP8pGGajEqecxxygHn6VKryWw4AbR9+mT/bYVie2HJ4rZ8awvtd3Te2uXh
+e24vvP1g7/yq1zYcPb3x6asLu2Zox9yega/Wzu9781L/gfWXLh5oilPX19z4bG/X
+6Nebf1v/3TN/zGS7ebZy4a/PxX1b1j5xfEPxxTur11YES7suTvL6J++M48Yrq5av
+M0f6x5+/cr7ww5e935//lqJ9y8pk4tCNHdOXC//unzt318GuyWLb6om/x8ajnjdW
+k/cnP917cJaUe06MNS+3Xe1cl3V8fHfxw6lj1aXNMyd+gannDvXub5689iufn/15
+ZwH6/3z4p/TKnnefPFo7PNg3MXRqZufx5PDjj+2efuvC2YfI7D9nykMja5pH0CPl
+Ra/P/bhyxbOdWy5QKsh7H1y/vzP+6IG+c3bXsoWzry7+D8DYWIs=
+=Ep3/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaymw
+
+==================================================================
