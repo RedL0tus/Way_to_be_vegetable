@@ -1,0 +1,17 @@
+<footer class="c-page__footer">
+	</ hr>
+	<p><script type='text/javascript'>
+		fortune = new Array(7);
+		fortune[0] = 'I good vegetable ah...';
+		fortune[1] = 'EL PSY CONGROO';
+		fortune[2] = 'Pen Pineapple Apple Pen ~';
+		fortune[3] = 'なんでそんなに慣れてんだよっ！';
+		fortune[4] = 'あたしが、先だった……先だったんだ……';
+		fortune[5] = '+1s +1s +1s +1s +1s +1s +1s +1s';
+		fortune[6] = 'どうしてこうなるんだろう…';
+		index = Math.floor(Math.random() * fortune.length);
+		document.write(fortune[index]);
+	</script><noscript>どうしてこうなるんだろう…</noscript><p></ hr></ br>
+    <p>&copy; {{ site.author }} {{ 'now' | date: '%Y' }} | Powered by Jekyll | Using theme:Butane </p></ br>
+    <p>Follow: {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a><span class="u-separate"></span>{% endif %}{% if site.github_username %}<a href="https://github.com/{{ site.github_username }}">Github</a>{% endif %}<span class="u-separate"></span> Subscribe: <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+</footer>
