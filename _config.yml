@@ -5,7 +5,7 @@ description: >
 author: KayMW
 email: i@ikay.work
 baseurl: "" # the subpath of your site, e.g. /blog
-url: v2bv.win # the base hostname & protocol for your site
+url: //v2bv.win # the base hostname & protocol for your site
 twitter_username: KayTheSF
 github_username:  RedL0tus
 
