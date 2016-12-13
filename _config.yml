@@ -14,6 +14,6 @@ disqus_shortname: sth-1
 # Build settings
 include: [_pages]
 markdown: kramdown
-permalink: /:year/:month/:title
+permalink: :year/:title
 sass:
     style: compressed
