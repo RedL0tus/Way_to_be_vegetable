@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Something about me
 layout: post
 date: 2016-12-18T23:28:12.000Z
@@ -47,6 +47,7 @@ date: 2016-12-18T23:28:12.000Z
 我這樣的人是不會有出息的。
 
 現在的我，做任何事都感覺沒有動力。
+
 
 哪怕是曾經自稱是最喜歡的電腦，面對的時候也只剩下了不知所措。
 
