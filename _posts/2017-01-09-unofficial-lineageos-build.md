@@ -1,8 +1,8 @@
 ---
-published: true
-title: Unofficial LineageOS build (SFMod)
-date: '2016-01-09 16:08 -0800'
 layout: post
+title: Unofficial LineageOS build (SFMod)
+date: 2016-01-09 16:08 -0800
+published: true
 ---
 Several days ago, Cyngn shut down all services for CyanogenMod, and those developers created a fork of CyanogenMod called [LineageOS](https://lineageos.org). And at now, though we can visit their download site but they didn't start build official builds yet (2017.01.09). So I built a build from their [source code on GitHub](https://github.com/LineageOS) for my Nexus 5X(bullhead) -- Of course, with some changes.
 
