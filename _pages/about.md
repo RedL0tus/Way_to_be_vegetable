@@ -24,4 +24,5 @@ You can get in touch with me by:
 
 All of the posts here are licensed under [`Creative Commons  Attribution-NonCommercial-ShareAlike 4.0 Generic`](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
+<a href="https://my.fsf.org/register_form?referrer=1311599"><img src="https://static.fsf.org/nosvn/associate/crm/1311599.png" alt="Join FSF!" border="0"></a>
+<a href="https://www.eff.org/join"><img src="https://www.eff.org/files/eff-banner.jpg" alt="Join EFF!" border="0"></a><br />
