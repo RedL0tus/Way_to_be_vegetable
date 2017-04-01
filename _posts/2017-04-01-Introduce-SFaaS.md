@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+date: '2017-04-01 12:34:56 -0700'
+title: Introduce the SFaaS
 ---
 Introduce the SFaaS - SaltedFish as a Service
 
