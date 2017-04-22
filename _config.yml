@@ -26,3 +26,5 @@ gems:
 # AMP Settings
 ampdir: /amp
 enable_amp: true
+
+exclude: [vendor]
