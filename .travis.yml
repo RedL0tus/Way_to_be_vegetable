@@ -29,7 +29,7 @@ sudo: false # route your build to the container-based infrastructure for a faste
 #    branch: jekyll
 
 after_script:
-  - cd ./public
+  - cd ./_site
   - git init
   - git config user.name "RedL0tus"  #修改name
   - git config user.email "i@ikay.work"  #修改email
