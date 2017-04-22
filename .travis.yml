@@ -24,5 +24,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   local_dir: _site/*
+  branch: master
   on:
-    branch: master
+    branch: jekyll
