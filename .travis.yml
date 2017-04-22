@@ -12,8 +12,7 @@ script: ./script/cibuild
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master
-
+  - jekyll
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
@@ -24,7 +23,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  local_dir: _site/
+  local_dir: _site/*
   on:
     branch: master
-    repo: RedL0tus/RedL0tus.github.io
