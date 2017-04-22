@@ -17,3 +17,11 @@ markdown: kramdown
 permalink: :year/:title
 sass:
     style: compressed
+
+gems:
+  - jemoji
+  - amp-jekyll # Accelerated Mobile Pages
+
+# AMP Settings
+ampdir: /amp
+enable_amp: true
