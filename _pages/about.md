@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+[![Build Status](https://travis-ci.org/RedL0tus/Way_to_be_vegetable.svg?branch=master)](https://travis-ci.org/RedL0tus/Way_to_be_vegetable)
+
 This is KayMW - Yet another salted fish.
 
 Welcome to Way to be vegetable~ ( \ Chinglish /
