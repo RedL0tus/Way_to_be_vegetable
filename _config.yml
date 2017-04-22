@@ -1,11 +1,10 @@
 # Site settings
 title: Sth.
-description: >
-    Sth. - Just a blog.
+description: Sth. - Just a blog.
 author: KayMW
 email: i@ikay.work
 baseurl: "" # the subpath of your site, e.g. /blog
-url: //v2bv.win # the base hostname & protocol for your site
+url: https://v2bv.win # the base hostname & protocol for your site
 twitter_username: KayTheSF
 github_username:  RedL0tus
 
