@@ -23,8 +23,8 @@ sudo: false # route your build to the container-based infrastructure for a faste
 deploy:
   provider: pages
   skip_cleanup: true
-  repo: RedL0tus/RedL0tus.github.io
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   local_dir: _site/
   on:
     branch: master
+    repo: RedL0tus/RedL0tus.github.io
