@@ -21,6 +21,7 @@ gems:
   - jemoji
   - jekyll-sitemap
   - amp-jekyll # Accelerated Mobile Pages
+  - jekyll-tidy
 
 # AMP Settings
 ampdir: /amp

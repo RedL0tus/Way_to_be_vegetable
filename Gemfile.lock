@@ -20,6 +20,8 @@ GEM
     html-pipeline (2.5.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    htmlbeautifier (1.3.0)
+    htmlcompressor (0.3.1)
     i18n (0.8.1)
     jekyll (3.4.3)
       addressable (~> 2.4)
@@ -36,6 +38,10 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
+    jekyll-tidy (0.2.2)
+      htmlbeautifier
+      htmlcompressor
+      jekyll
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     jemoji (0.8.0)
@@ -73,6 +79,7 @@ DEPENDENCIES
   amp-jekyll
   jekyll
   jekyll-sitemap
+  jekyll-tidy
   jemoji
 
 BUNDLED WITH
