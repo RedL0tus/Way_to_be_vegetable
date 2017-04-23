@@ -1,0 +1,16 @@
+User-agent: 360Spider
+Disallow: /
+
+User-agent: HaoSouSpider
+Disallow: /
+
+User-agent: 360Spider-Image
+Disallow: /
+
+User-agent: 360Spider-Video
+Disallow: /
+
+Indexpage: https://v2bv.win/index.html
+
+User-agent: *
+Sitemap: https://v2bv.win/sitemap.xml

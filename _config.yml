@@ -27,3 +27,6 @@ ampdir: /amp
 enable_amp: true
 
 exclude: [vendor]
+
+# Google Analytics
+google_analytics: UA-97897080-1
