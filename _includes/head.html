@@ -8,6 +8,15 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="manifest" href="/manifest.json">
+  <script>
+    if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+        .register('/service-worker.js')
+        .then(function() { console.log("Service Worker Registered"); });
+    }
+  </script>
   {% include amplinking.html %}
   {% include googleanalytics.html %}
+  {% include structureddata.html %}
 </head>

@@ -1,0 +1,27 @@
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sth.",
+        "logo": "/favicon.ico"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Kay",
+        "image": {
+            "@type": "ImageObject",
+            "url": "/avatar.jpg",
+        },
+        "description": "{{ site.description }}"
+    },
+    "headline": "{{ page.title }}",
+    "url": "{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}",
+    "datePublished": "{{ page.date | date: "%b %-d, %Y" }}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.baseurl | prepend: site.url }}"
+    }
+}
+</script>
+

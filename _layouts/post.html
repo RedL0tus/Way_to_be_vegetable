@@ -1,29 +1,27 @@
 ---
 layout: page
 ---
-<article class="c-article" id="page_article">
-  <header class="c-article__header" id="article_header">
+<article class="c-article">
+  <header class="c-article__header">
     <div id="article_title">
-      <h1 itemprop="name" class="c-article__title">{{ page.title }}</h1>
+      <h1 class="c-article__title">{{ page.title }}</h1>
     </div>
     <div id="article_time">
       <p class="c-article__time">
-        <time itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        <time content="{{ page.date | date: '%Y-%m-%d' }}">
           {{ page.date | date: "%b %-d, %Y" }}
         </time>
       </p>
     </div>
   </header>
-  <div class="c-article__main" id="article_body">
-    <span itemprop="articleBody">
-      {{ content }}
-    </span>
+  <div class="c-article__main">
+    {{ content }}
     {% include comment.html %}
   </div>
-  <footer class="c-article__footer" id="article_footer">
+  <footer class="c-article__footer">
     <p>
       {% for tag in page.tags %}
-      <span class="c-tag" id="article_tags">{{ tag }}</span>
+      <span class="c-tag">{{ tag }}</span>
       {% endfor %}
     </p>
   </footer>

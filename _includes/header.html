@@ -1,5 +1,5 @@
 <header class="c-page__header" id="page_header">
-    <h1 {% if page.path contains '_posts' %}itemprop="articleSection"{% endif %}>{{ site.description }}</h1>
+  <h1 {% if page.path contains '_posts' %}itemprop="articleSection"{% endif %}>{{ site.description }}</h1>
   {% if page.title == 'Home' %}
   <p>
     <a href="{{ "/" | prepend: site.baseurl }}">Home</a>

@@ -1,0 +1,17 @@
+{
+  "name"              : "Sth. - Just a blog.",
+  "short_name"        : "Sth.",
+  "description"       : "Just a blog",
+  "start_url"         : "https://v2bv.win",
+  "display"           : "fullscreen",
+  "orientation"       : "any",
+  "background_color"  : "#FFFFFF",
+  "theme_color"       : "#FFFFFF",
+  "icons": [
+    {
+      "src"           : "/avatar.jpg",
+      "sizes"         : "640x640",
+      "type"          : "image/jpg"
+    }
+  ]
+}

@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="c-page" id="page_main">
-  <article {% if page.path contains '_posts' %}itemscope itemtype="http://schema.org/Article"{% endif %} class="c-article" id="page_article">
+<div class="c-page">
+  <article class="c-article">
     {% include header.html %}
-    <div class="c-article__main" id="article_main">
+    <div class="c-article__main">
       {{ content }}
       {% if page.title != 'Home' %}
         {% include comment.html %}

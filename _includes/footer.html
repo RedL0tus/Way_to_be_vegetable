@@ -8,12 +8,7 @@
   </br>
   {% endif %}
   <p>
-    &copy; 
-    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <span itemprop="name" id="page_author">
-        {{ site.author }} 
-      </span>
-    </span>
+    &copy; {{ site.author }} 
     {{ 'now' | date: '%Y' }} | Powered by Jekyll | Using theme:Biu
   </p>
   {% if page.layout != 'amp' %}
