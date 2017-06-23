@@ -2,6 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
+published: true
 ---
 
  - KenOoKamiHoro ([https://blog.yoitsu.moe/](https://blog.yoitsu.moe/)) - 约伊兹的萌狼乡手札  
@@ -9,7 +10,8 @@ permalink: /links/
 
  - Bekcpear(iYI) ([https://https://nifume.com/](https://nifume.com/)) - 未墨轻梅  
   Dalao x1 Get√
+  
+ - FiveYellowMice ([https://fiveyellowmice.com](https://fiveyellowmice.com)) - FiveYellowMice's Blog  
+  也就是五黃鼠，也被叫做皇叔 XD
 
 If you want to share link with me, please comment below~
-
-
