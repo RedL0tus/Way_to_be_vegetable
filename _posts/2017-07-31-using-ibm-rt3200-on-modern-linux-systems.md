@@ -53,6 +53,8 @@ Just modify XOrg's config to make all pointing devices use evdev drivers and ena
 
 After this, just restart XOrg and everything will be fine :)
 
+(If you have any better idea, please comment below :)
+
 -----
 
 Anyway, it is a really a **GREAT** keyboard for a low price, it's old but not obsolete. ~~If you like it, you can go and get one from eBay or other places, it's not rare and expensive until now, but maybe several years later it will be another IBM Model M~~ XD
