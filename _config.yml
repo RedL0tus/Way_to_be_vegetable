@@ -4,7 +4,7 @@ description: Sth. - Just a blog.
 author: KayMW
 email: i@ikay.work
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://v2bv.win # the base hostname & protocol for your site
+url: https://v2bv.net # the base hostname & protocol for your site
 twitter_username: KayTheSF
 github_username:  RedL0tus
 
