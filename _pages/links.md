@@ -19,5 +19,9 @@ published: true
 
  - wwyqianqian ([wwyqianqian.github.io/](https://wwyqianqian.github.io/)) - WWY‘s Blog  
    好耶是千千！
+   
+ - Luke & Moon ([zgan.ga](https://zgan.ga)) - Luke & Moon's home  
+   又双叒叕是一個大佬，好耶！
+
 
 If you want to share link with me, please comment below~
