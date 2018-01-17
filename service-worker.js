@@ -1,6 +1,6 @@
 'use strict';
 
-const version          = 'v20171123';
+const version          = 'v20180116';
 const __DEVELOPMENT__  = false;
 const __DEBUG__        = false;
 
