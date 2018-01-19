@@ -8,7 +8,8 @@ url: https://v2bv.net # the base hostname & protocol for your site
 twitter_username: KayTheSF
 github_username:  RedL0tus
 
-disqus_shortname: sth-1
+#disqus_shortname: sth-1
+isso_link: https://comments.v2bv.net/
 
 # Build settings
 include: [_pages]

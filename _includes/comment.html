@@ -18,3 +18,22 @@
     Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
   </noscript>
 {% endif %}
+
+{% if site.isso_link %}
+<script data-isso="{{ site.isso_link }}"
+        data-isso-css="true"
+        data-isso-lang="en"
+        data-isso-reply-to-self="true"
+        data-isso-require-author="true"
+        data-isso-require-email="false"
+        data-isso-reveal-on-click="5"
+        data-isso-avatar="true"
+        data-isso-vote="true"
+        src="{{ site.isso_link }}js/embed.js"></script>
+<section id="isso-thread"
+         data-title="{{ page.title }}"
+         data-isso-id="{{ page.id }}"></section>
+<noscript>
+    Please enable JavaScript to view the comments powered by <a href="https://posativ.org/isso/">ISSO</a>.
+  </noscript>
+{% endif %}
