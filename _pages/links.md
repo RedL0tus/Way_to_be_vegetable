@@ -23,5 +23,7 @@ published: true
  - Luke & Moon ([zgan.ga](https://zgan.ga)) - Luke & Moon's home  
    又双叒叕是一個大佬，好耶！
 
+ - Mingcong Bai/特首/果凍 ([mingcongbai.wtf](https://mingcongbai.wtf)) - POWER to the People  
+   AOSC 創始人，很認真的一個人~~（可惜找不到女朋友）~~。
 
 If you want to share link with me, please comment below~
