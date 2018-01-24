@@ -26,4 +26,7 @@ published: true
  - Mingcong Bai/特首/果凍 ([mingcongbai.wtf](https://mingcongbai.wtf)) - POWER to the People  
    AOSC 創始人，很認真的一個人~~（可惜找不到女朋友）~~。
 
+ - BroncoTc/豆腐 ([blog.broncotc.net](https://blog.broncotc.net)) - 豆腐磨坊  
+   啃豆腐（
+
 If you want to share link with me, please comment below~
