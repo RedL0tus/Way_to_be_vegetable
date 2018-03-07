@@ -57,5 +57,7 @@ This blog uses [Jekyll](http://jekyllrb.com/), [GitHub Pages](https://github.io/
 
 All the posts here are licensed under the terms of [`Creative Commons  Attribution-NonCommercial-ShareAlike 4.0 Generic`](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Donate: Please visit <a href="https://v2bv.net/donate">https://v2bv.net/donate</a>.
+
 <a href="https://my.fsf.org/register_form?referrer=1311599"><img src="https://static.fsf.org/nosvn/associate/crm/1311599.png" alt="Join FSF!" border="0"></a>
 <a href="https://www.eff.org/join"><img src="https://www.eff.org/files/eff-banner.jpg" alt="Join EFF!" border="0"></a><br />

@@ -55,5 +55,7 @@ permalink: /about-zh/
 
 所有博文除非特殊註明，否則全部以 [Creative Commons 署名-非商业性使用-相同方式共享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議共享。
 
+捐助：請訪問 <a href="https://v2bv.net/donate">https://v2bv.net/donate</a>。
+
 <a href="https://my.fsf.org/register_form?referrer=1311599"><img src="https://static.fsf.org/nosvn/associate/crm/1311599.png" alt="加入 FSF!" border="0"></a>
 <a href="https://www.eff.org/join"><img src="https://www.eff.org/files/eff-banner.jpg" alt="加入 EFF!" border="0"></a><br />
