@@ -1,6 +1,6 @@
 'use strict';
 
-const version          = 'v20180207';
+const version          = 'v20180306';
 const __DEVELOPMENT__  = false;
 const __DEBUG__        = false;
 
@@ -15,6 +15,7 @@ const ignoreFetch      = [
   /https?:\/\/[\S]*.disqus.com\/[\S]*/,
   /https?:\/\/[\S]*img.vim-cn.com\/[\S]*/,
   /https?:\/\/[\S]*ajax.cloudflare.com\/[\S]*/,
+  /https?:\/\/[\S]*authedmine.com\/[\S]*/,
 ];
 
 function onInstall(event) {
