@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Donate/捐助
+permalink: /donate/
 ---
 
 Feel free to donate if you want (XD
