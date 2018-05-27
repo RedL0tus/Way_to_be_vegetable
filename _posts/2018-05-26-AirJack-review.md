@@ -74,7 +74,7 @@ Feel free to ask me anything about it in the comments below.
 以下爲中文版：  
 這篇文章裏提到的 AirJack 是 [Go-Tech LLC](https://go-techllc.com) 在 [Indiegogo 上衆籌](https://www.indiegogo.com/projects/airjack-bluetooth-for-any-audio-device-headphones#/)的一個能把一般的 3.5mm 接口的有線耳機當藍牙耳機用的設備。也就是說它是一個接收藍牙訊號並解碼然後輸出到 3.5mm 口的設備。
 
-我差不多一年多前就參與了這個衆籌項目，itself當時做 AirJack 的團隊說會在 17 年 5 月左右發貨，但是並沒有。然後我在 18 年二月份的時候收到了一個物流號碼，但是一直沒有動靜（直到六天前也就是 5 月 21 日）。直到昨天我才收到它...
+我差不多一年多前就參與了這個衆籌項目，當時做 AirJack 的團隊說會在 17 年 5 月左右發貨，但是並沒有。然後我在 18 年二月份的時候收到了一個物流號碼，但是一直沒有動靜（直到六天前也就是 5 月 21 日）。直到昨天我才收到它...
 
 ![這就是包裹裏的所有東西了](../img/airjack_packet.jpg)
 
