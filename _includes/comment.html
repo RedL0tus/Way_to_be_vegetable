@@ -1,12 +1,10 @@
 {% if site.disqus_shortname %}
   <div id="disqus_thread"></div>
   <script>
-  /*
-   * var disqus_config = function () {
-   * this.page.url = PAGE_URL;
-   * this.page.identifier = PAGE_IDENTIFIER;
-   * };
-   */
+  var disqus_config = function () {
+    this.page.url = {{ page.id | prepend: site.ampdir | prepend: site.baseurl | prepend: site.url }};
+    this.page.identifier = {{ page.id }};
+  };
   (function() {
     var d = document, s = d.createElement('script');
     s.src = '//{{ site.disqus_shortname }}.disqus.com/embed.js';
