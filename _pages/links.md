@@ -46,4 +46,7 @@ published: true
  - AxionL/艾雨寒 ([axionl.me](https://axionl.me)) - 初等記憶體  
    带我进圈子的大佬吧，似乎是一个艺术生（不会写程序的艺术生不是好包工？）。一副文化人的样子，我要是能有他一半文艺就好了。
 
+ - Megumi fox ([blog.megumifox.com](https://blog.megumifox.com)) - 惠狐之书  
+   Arch CN 群里的大佬，少见的 Hugo 用户。
+
 If you want to share link with me, please comment below~
