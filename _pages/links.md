@@ -19,7 +19,7 @@ published: true
 
  - wwyqianqian ([wwyqianqian.github.io/](https://wwyqianqian.github.io/)) - WWY‘s Blog  
    好耶是千千！
-   
+
  - Luke & Moon ([zgan.ga](https://zgan.ga)) - Luke & Moon's home  
    又双叒叕是一個大佬，好耶！
 
@@ -28,5 +28,8 @@ published: true
 
  - BroncoTc/豆腐 ([blog.broncotc.net](https://blog.broncotc.net)) - 豆腐磨坊  
    啃豆腐（
+
+ - AxionL/艾雨寒 ([axionl.me](https://axionl.me)) - 初等記憶體  
+   带我进圈子的大佬吧，似乎是一个艺术生（不会写程序的艺术生不是好包工？）。一副文化人的样子，我要是能有他一半文艺就好了。
 
 If you want to share link with me, please comment below~
