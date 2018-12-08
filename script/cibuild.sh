@@ -9,8 +9,9 @@ pip install docutils pygments
 echo -e "[\033[32m OK \033[0m] Python packages installed."
 
 bundle install
+bundle update
 gem install RbST
-echo -e "[\033[32m OK \033[0m] Dependencies installed."
+echo -e "[\033[32m OK \033[0m] Dependencies updated."
 
 bundle exec jekyll build
 echo -e "[\033[32m OK \033[0m] Site generated."
