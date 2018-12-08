@@ -49,4 +49,7 @@ published: true
  - Megumi fox ([blog.megumifox.com](https://blog.megumifox.com)) - 惠狐之书  
    Arch CN 群里的大佬，少见的 Hugo 用户。
 
+ - farseerfc/fc 教授 ([farseerfc.me](https://farseerfc.me)) - Farseerfc的小窩  
+   Arch Linux 的 TU，大坂大学的助教。活跃在复数个群，知道的东西好多（
+
 If you want to share link with me, please comment below~
