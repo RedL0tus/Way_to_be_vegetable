@@ -3,8 +3,14 @@ title: 我當然支持各類平權
 layout: post
 date: 2018-05-28 15:50:00 -0700
 ---
-（又是一篇水文）
+~~（又是一篇水文）~~ 蟆的丢人死了，逻辑不通，强词夺理。
 
+这文章绝对可以算是我的黑历史了（捂脸
+不过这个文档的重点其实不在文章本身（小声
+
+下面是原文全文，还请轻喷，轻一点轻一点...
+
+```
 其實主要是想說 LGBT 啦（不過女權啊殘疾人啊什麼的也同理就是了）... 就想來講講我的看法，也算是表明下我的態度。
 
 說實話，我現在感覺身邊 LGBT 似乎是越來越多了來着 😂 
@@ -23,6 +29,7 @@ date: 2018-05-28 15:50:00 -0700
 我支持所有不會影響到他人正當權利的平權運動，不管是 LGBT 還是什麼別的。
 
 我就很期待有一天所有人都能尊重別人的不同點，都能坦然接受別人的不同。
+```
 
 <!--
 5pyA5b6M5YaN5L6G6Kqq5LiL5oiR55qE5oOF5rOB77yI5YW25a+m5a+r6YCZ56+H5paH56ug5bCx5piv5oOz6Kqq6YCZ5Lqb77yJ77yM5oiR5ZCnLi4uIOiqquWvpuipseecn+eahOaciem7nuaHt+eWkeiHquW3seaYr+S4jeaYr+acieS6myBUIOeahOWCvuWQkeOAguaIkei3n+W5vuWAi+S6uuaPkOWIsOmBjumAmeS6m+S6i+aDhe+8jOS4jemBjuePvuWcqOS4puaykuacieaxuuWumuimgeS4jeimgeaOoeWPluihjOWLleOAgummluWFiOaIkemAo+aIkeiHquW3seaYr+WWnOatoeWls+eUn+mChOaYr+e+qOaFleWls+eUn+mDveS4jeaYr+W+iOeiuuWumuOAguW+nuWwj+WwseWwjeWls+eUn+aciem7nuS4jeefpemBk+aYr+e+qOaFlemChOaYr+S7gOm6vOeahOaDhee3ku+8jOe+qOaFleWlueWAkeiDveWBmueahOS6i+aDheOAguS4jemBjuacieS4gOm7nuWPr+S7peeiuuWumueahOaYr+aIkeS4jeWWnOatoeeUt+eahO+8jOeUn+eQhuWSjOW/g+eQhuS4iumDveaYryDwn5iC44CC5bCx5oiR54++5Zyo55qE5oOF5rOB5L6G6Kqq5Y+v6IO95piv5LiN5aSq5pyD5Y675ZCD57OW77yM5a626KOP5Lq65piv5piO56K65Y+N5bCN55qE77yM5oiR6Ieq5bex5Lmf5rKS6YKj6bq85by355qE5Z+36KGM5Yqb77yM5oiR6Ieq5bex5bCN5oiR6Ieq5bex55qE55yL5rOV5ZibLi4uIOWFtuWvpuS5n+eEoeaJgOisguS6hu+8jOaIkeaAjum6vOaoo+mDveWPr+S7pe+8jOWPjeato+W3sue2k+WkoOeIm+S6huOAguiqquWIsOmAmeijj+mChOaYr+W+iOe+qOaFleixhuiFkOS7luWAkeeahOOAgue4veS5i+S7peW+jOWGjeiqquWQp+OAguaIkemAmeaHieipsuS4jeeul+WHuuarg+WQpyAyMzMz
