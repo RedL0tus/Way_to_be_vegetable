@@ -30,10 +30,11 @@ GuixSD：
  - 有部分包上游没有进行构建，这时候 guix 会自动下载工具链进行编译安装（比如 IceCat，自由版本的 Firefox，我 X220 上编译花了几个小时），这就意味着在老机器上安装包可能会比较痛苦。
  - 还是之前说的文档问题，我花了挺多时间都没找到让它根据 file system label 来启用 SWAP 分区的方法，而这样的问题还有不少。
  - 工具链版本有点奇妙，我看它安装的时候 GCC 5 6 7 8 都下载了一遍，直接安装 GCC 竟然装的是 GCC 5.5.0，9102 年了还 5.5.0... 太丢人了（还亏它是 FSF 亲儿子呢）。
- - IME 支持很烂，fcitx 只打了 fcitx 本体和 fcitx-configtool；RIME 之类的输入法引擎全归类到 iBus 下面了，我在 IRC 频道里问了相关事情就直接被忽略了；iBus 装上之后除 GNOME 外都没办法让它自动启动，传统发行版上 .xprofile 里加变量的方式完全没用，文档里也没有提到任何相关的东西；RIME 可能是坏的，无法启动。
+ - IME 支持很烂，fcitx 只打了 fcitx 本体和 fcitx-configtool；RIME 之类的输入法引擎全归类到 iBus 模块下面了，我在 IRC 频道里问了相关事情就直接被忽略了；iBus 装上之后除 GNOME 外都没办法让它自动启动，传统发行版上 .xprofile 里加变量的方式完全没用，文档里也没有提到任何相关的东西；~~RIME 可能是坏的，无法启动。~~  
+  后来有个大佬在 Telegram 里联系了我，说 RIME 实际是可以用的，但是需要[额外的设置](https://github.com/guix-china/help)，还是没有 NixOS 用的方法完善。可能需要有知道怎么做才好的人去把它做成一个 module（就像 NixOS 那样）。但我应该不会是那个人，原因见下。  
  - MATE 下的锁屏是坏的（什么都不做就说 Authentication Failed），xfce 下无法启动输入法，就只有 GNOME 可能还能用。
  - fontconfig 只会读用户 profile 下的字体。
- - Shepherd 还是太冷门惹...
+ - Shepherd 还是太冷门惹... 启动速度也比 systemd 慢~~（不过至少比 BSD init 快）~~。
 
 我没去报 bug 的原因是：一，我懒，我去问问题都没人理我，我干嘛要帮他们（虽然我也帮不大上）；二，他们的 Bug tracker 太硬核叻... 只有邮件列表，Bug report 和提交 patch 都在一起的，我不敢说话 🤦‍♀️
 
