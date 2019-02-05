@@ -9,10 +9,11 @@ published: true
    ~~俗稱萌狼，喜歡吃人~~ 😋  
    最早是在 AOSC 群里认识的，博客里有很多白话文版的教程，挺友善的一个人，就是老是喜欢换帐号 = =
 
- - Bekcpear(iYI) ([nifume.com/](https://nifume.com/)) - 未墨轻梅  
+ - ~~Bekcpear(iYI) ([nifume.com/](https://nifume.com/)) - 未墨轻梅  
    Dalao x1 Get√  
    Gentoo 群里认识的大佬，看起来运维上了解挺深，跟他一起（还有别的几个人）建了一个论坛（虽然凉了）。  
-   **几个月前突然消失，所有已知联系方式都无法联系上，还请麻烦知情的大佬们透露下情况，希望没出什么事。**
+   几个月前突然消失，所有已知联系方式都无法联系上，还请麻烦知情的大佬们透露下情况，希望没出什么事。~~  
+   人找到了，看起来没事，看起来想换新身份了。
 
  - FiveYellowMice ([fiveyellowmice.com](https://fiveyellowmice.com)) - FiveYellowMice's Blog  
    也就是五黃鼠，也被叫做皇叔 XD  
