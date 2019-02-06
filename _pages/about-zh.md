@@ -1,61 +1,52 @@
----
-layout: page
-title: 關於
-permalink: /about-zh/
----
-[English](https://v2bv.net/about/)
+- 18 岁，是学生。
 
-- 17歲，是學生。
+- 算不上码农：
+  - 我现在能使用[喷气脑](https://www.jetbrains.com/)产品了... 不知道之前是什幺毛病。
+  - 之前试着学了一下 Rust，但是我没有什幺基础，也没认教我感觉有点困难。打算什幺时候买本书看看。
 
-- 算不上碼農：
-  - [噴氣腦](https://www.jetbrains.com/)的產品很討厭我，一次次被勸退（各種凍屏） Orz。
-  - [GHC](https://www.haskell.org/ghc/)是個計算器。
-  - [Octave](https://www.gnu.org/software/octave/) 是一個很好玩的遊戲，你看那個曲線。
-  - [nano](https://www.nano-editor.org/) 是世界上最好的編輯器！
+- 我的设备：
+  - ThinkPad P50 (20ENCTO1WW) 运行着 [AOSC OS](https://aosc.io) GNU/Linux 或 Windows 10 (实际上现在 Windows 10 完全连不上网，Shintel 的垃圾无线网卡驱动连接任意网络都会崩溃)。
+  - ThinkPad X220 (42918G1) 运行着 [NixOS](https://nixos.org)。
+  - ThinkPad 360C 运行着 Windows 95 (Flying toasters!)。
+  - 某个水果的 iBook G4 14 吋 @ 1.42GHz 正在吃灰，上次换了硬盘之后就基本没动过了 (这机器我现在看着心烦，拆起来实在太磨人了)。
+  - Lilac 跑的原厂 Android，还没解锁。
+  - Bullhead 现在是基于 Halium 的 Plasma Mobile，经常刷所以不一定。
+  - Hammerhead 跑的 Android。
+  - Saana 也就只能跑 Windows 10 Mobile 了。
+  - NX 差不多吃灰中，买了的游戏都玩得差不多了，然后又买不起新游戏。
 
-- 我的設備：
-  - ThinkPad P50 (20ENCTO1WW) 運行着 [Gentoo](https://gentoo.org) GNU/Linux 或 Windows 10。
-  - ThinkPad X220 (42918G1) 運行着 [AOSC OS](https://aosc.io)。
-  - ThinkPad 360C 運行着 Windows 95 (Flying toasters!)。
-  - 某個水果的 iBook G4 14 吋 @ 1.42GHz PowerPC G4 運行着 AOSC OS (這機器我現在看着心煩，拆起來實在太磨人了).
-  - (想把 P50 賣了然後組一臺 ITX 或 Mini-ITX 的 Ryzen 機器)~~(インポッシブル)~~
-  - Lilac
-  - Bullhead
-  - Hammerhead
-  - Saana
-  - NX
-
-- 我的站點：
+- 我的站点：
   - [大象](https://s.brined.fish)
-  - [下載站](https://dl.v2bv.net)，沒啥好東西。
+  - [下载站](https://dl.v2bv.net)，没啥好东西。
+  - [实验性质的博客](https://brined.fish/SaltedBlog/)
 
-- 興趣：
-  - 動畫（沒錯我就是個死宅你有意見？）（不服憋着）。
-  - 遊戲。 <!-- My Steam profile: https://steamcommunity.com/id/red_l0tus/ -->
-  - 音樂（主要是 J-Pop，因爲沒啥對胃口的中文或英文歌）~~（日語歌就算詞寫得再爛也影響不到我，反正聽不懂）~~
+- 兴趣：
+  - 动画（没错我就是个死宅你有意见？）（不服憋着）。
+  - 游戏。 <!-- My Steam profile: https://steamcommunity.com/id/red_l0tus/ -->
+  - 音乐（主要是 J-Pop，尤其是 Aimer，因为没啥对胃口的中文或英文歌）~~（日语歌就算词写得再烂也影响不到我，反正听不懂）~~
 
-- 別的一些事情：
-  - 大概算是一個開源愛好者。是 FSF、EFF 和 LF 的支持者。
-  - 大概算是 AOSC ~~(Always Overuse Shell Community，總是熟練使用貝類社區)~~ [成員](https://aosc.io/people/~redl0tus).
-    - 從沒打過一個包.
-    - 只是寫了一個很醜還自帶混淆的 [pakreqBot](https://github.com/AOSC-Dev/pakreqBot) 以及畫了幾個貼紙。
-    - 打算重寫這個 bot，可能會換個語言~~(比如用 bash)~~.
-  - 大概算是貓黨（儘管我實際上一次都沒摸到過貓）（唉）。
-  - 開了一大堆坑，一個都沒填上。
+- 别的一些事情：
+  - 大概算是一个开源爱好者。是 FSF、EFF 和 LF 的支持者（虽然我并不一定完全同意他们的想法/做法）。
+  - 大概算是 AOSC ~~(Always Overuse Shell Community，总是熟练使用贝类社区)~~ [成员](https://aosc.io/people/~redl0tus)。
+    - ~~从没打过一个包。~~ 打过了，永远得钉在耻辱柱上了。
+    - 只是写了一个很丑还自带混淆的 [pakreqBot](https://github.com/AOSC-Dev/pakreqBot) 以及画了几个贴纸。
+    - 打算重写这个 bot，可能会换个语言~~(比如用 bash)~~ 已经用 Python 重写了，用了 aiohttp，aiosqlite，aiogram 等等。~~异步 IO 三位一体（x~~
+  - 大概算是猫党（尽管我实际上一次都没摸到过猫）（唉）。
+  - 开了一大堆坑，一个都没填上。
   - RAmen.
 
-- 各種帳號啥的：
-  - 郵箱: <code>YVVCMk1tSjJMbTVsZEE9PQ==</code> <!-- 只是過了兩次 base64 -->
+- 各种帐号啥的：
+  - 邮箱: <code>YVVCMk1tSjJMbTVsZEE9PQ==</code> <!-- 只是过了两次 base64 -->
   - Keybase: [https://keybase.io/KayMW](https://keybase.io/KayMW)
   - XDA: [@KayMW](https://forum.xda-developers.com/member.php?u=8356701)
   - GitHub: [@RedL0tus](https://github.com/RedL0tus)
 <!-- Telegram: DSAuoUEyMRMcp2uPo3D= -->
 
-這個博客使用 [Jekyll](http://jekyllrb.com/)、[GitHub Pages](https://github.io/) 以及 [CloudFlare](https://cloudflare.com)。
+这个博客使用 [Jekyll](http://jekyllrb.com/)、[GitHub Pages](https://github.io/) 以及 [CloudFlare](https://cloudflare.com)。
 
-所有博文除非特殊註明，否則全部以 [Creative Commons 署名-非商业性使用-相同方式共享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議共享。
+所有博文除非特殊注明，否则全部以 [Creative Commons 署名-非商业性使用-相同方式共享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议共享。
 
-捐助：請訪問 <a href="https://v2bv.net/donate">https://v2bv.net/donate</a>。
+捐助：请访问 <a href="https://v2bv.net/donate">https://v2bv.net/donate</a>。
 
 <a href="https://my.fsf.org/register_form?referrer=1311599"><img src="https://static.fsf.org/nosvn/associate/crm/1311599.png" alt="加入 FSF!" border="0"></a>
 <a href="https://www.eff.org/join"><img src="https://www.eff.org/files/eff-banner.jpg" alt="加入 EFF!" border="0"></a><br />
