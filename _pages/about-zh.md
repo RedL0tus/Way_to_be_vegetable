@@ -1,3 +1,9 @@
+---
+layout: page
+title: 关于
+permalink: /about-zh/
+---
+
 - 18 岁，是学生。
 
 - 算不上码农：
