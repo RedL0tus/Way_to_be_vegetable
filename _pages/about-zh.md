@@ -4,14 +4,21 @@ title: 关于
 permalink: /about-zh/
 ---
 
-- 18 岁，是学生。
+欢迎来到~~蔬~~变菜之路（笑
+
+[Chinglish](https://v2bv.net/about)
+
+- 不到 24 岁，是学生。
 
 - 算不上码农：
-  - 我现在能使用[喷气脑](https://www.jetbrains.com/)产品了... 不知道之前是什幺毛病。
-  - 之前试着学了一下 Rust，但是我没有什幺基础，也没认教我感觉有点困难。打算什幺时候买本书看看。
+  - 我现在能使用[喷气脑](https://www.jetbrains.com/)产品了... 不知道之前是什么毛病。
+    - 真香。
+  - 之前试着学了一下 Rust，但是我没有什么基础，也没人教我感觉有点困难。打算什么时候买本书看看。
+    - 现在有 NLL 了，写起来简单多了。
+    - 书买到了，造了两个轮子，感觉海星。
 
 - 我的设备：
-  - ThinkPad P50 (20ENCTO1WW) 运行着 [AOSC OS](https://aosc.io) GNU/Linux 或 Windows 10 (实际上现在 Windows 10 完全连不上网，Shintel 的垃圾无线网卡驱动连接任意网络都会崩溃)。
+  - ThinkPad P50 (20ENCTO1WW) 运行着 [AOSC OS](https://aosc.io) GNU/Linux。
   - ThinkPad X220 (42918G1) 运行着 [NixOS](https://nixos.org)。
   - ThinkPad 360C 运行着 Windows 95 (Flying toasters!)。
   - 某个水果的 iBook G4 14 吋 @ 1.42GHz 正在吃灰，上次换了硬盘之后就基本没动过了 (这机器我现在看着心烦，拆起来实在太磨人了)。
@@ -20,10 +27,11 @@ permalink: /about-zh/
   - Hammerhead 跑的 Android。
   - Saana 也就只能跑 Windows 10 Mobile 了。
   - NX 差不多吃灰中，买了的游戏都玩得差不多了，然后又买不起新游戏。
+    - 现在沉迷 Tetris 99。
 
 - 我的站点：
   - [大象](https://s.brined.fish)
-  - [下载站](https://dl.v2bv.net)，没啥好东西。
+  - [下载站](https://dl.v2bv.net)，没啥好东西。程序用的自己写的 Fchsine，过段时间打算重构。
   - [实验性质的博客](https://brined.fish/SaltedBlog/)
 
 - 兴趣：
@@ -34,7 +42,7 @@ permalink: /about-zh/
 - 别的一些事情：
   - 大概算是一个开源爱好者。是 FSF、EFF 和 LF 的支持者（虽然我并不一定完全同意他们的想法/做法）。
   - 大概算是 AOSC ~~(Always Overuse Shell Community，总是熟练使用贝类社区)~~ [成员](https://aosc.io/people/~redl0tus)。
-    - ~~从没打过一个包。~~ 打过了，永远得钉在耻辱柱上了。
+    - ~~从没打过一个包。~~ 打过了，永远地钉在耻辱柱上了。
     - 只是写了一个很丑还自带混淆的 [pakreqBot](https://github.com/AOSC-Dev/pakreqBot) 以及画了几个贴纸。
     - 打算重写这个 bot，可能会换个语言~~(比如用 bash)~~ 已经用 Python 重写了，用了 aiohttp，aiosqlite，aiogram 等等。~~异步 IO 三位一体（x~~
   - 大概算是猫党（尽管我实际上一次都没摸到过猫）（唉）。

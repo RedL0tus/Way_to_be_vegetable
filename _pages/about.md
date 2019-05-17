@@ -7,11 +7,13 @@ Welcome to Way to be vegetable~ ( \ Chinglish /
 
 [中文](https://v2bv.net/about-zh/)
 
-- I am a high school student, yet.
+- Nijuuyon sai, kakusei desu (w).
 
 - I'm not a good code writer.
   - [JetBrains](https://www.jetbrains.com/) products works well with me... for now.
   - Trying to study Rust, but seems it's too hard for me as I'm not experienced and I don't have any instructors that can help me. Planning to buy some books for it.
+    - In Rust 2018, we have NLL which made my life a lot more easier.
+    - Built two square wheels.
 - My devices:
   - ThinkPad P50 (20ENCTO1WW) running [AOSC OS](https://aosc.io) GNU/Linux & Windows 10 (Which is currently unusable because Shintel's garbage-like wireless card driver).
   - ThinkPad X220 (42918G1) running [NixOS](https://nixos.org).
@@ -22,6 +24,7 @@ Welcome to Way to be vegetable~ ( \ Chinglish /
   - Hammerhead running Android.
   - Saana running Windows 10 Mobile (Of course, what else can it run?).
   - NX
+    - Tetris 99!
 
 - My sites:
   - [Mastodon](https://s.brined.fish)
@@ -39,7 +42,7 @@ Welcome to Way to be vegetable~ ( \ Chinglish /
   - Kinda AOSC (Always Overuse Shell Community) [member](https://aosc.io/people/~redl0tus).
     - ~~Never done any packaging stuff.~~ XD
     - Just wrote a ugly [pakreqBot](https://github.com/AOSC-Dev/pakreqBot) for ~~executing JellyBai~~ and drew several stickers for AOSCC.
-    - I rewrote that bot, right now it's pakreqBot-ng written in Python, built with aiohttp, aiosqlite, aiogram, and so on. ~~trinity of async I/O telegram bot.~~
+    - I rewrote that bot, right now it's pakreqBot-ng written in Python with aiohttp, aiosqlite, aiogram, and so on. ~~trinity of async I/O telegram bot.~~
   - Kinda cat lover (But in fact, I never touched any cat, they just ran away when I'm trying to be close to them)(Which is pretty sad).
   - Tons of unfinished projects.
   - RAmen.
