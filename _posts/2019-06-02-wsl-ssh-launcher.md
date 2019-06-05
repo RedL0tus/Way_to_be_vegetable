@@ -9,40 +9,42 @@ date: 2019-06-02 13:35:00 +0800
 
 <div id="en"></div>
 
-Because of some undeniable reason, I'm using Windows these days. I haven't been using Windows for about half a year, and I got really used to those command line tools in Linux (e,g, tmux), it's kind of uncomfortable without them.
+I'm a Linux user and recently because of some undeniable reason, I' m using Windows these days. I  haven't been using Windows for about half a year, and I got really used  to those command line tools in Linux (e,g, tmux), it's kind of  uncomfortable without them.
+So I enabled WSL, installed openSUSE and Arch. After  setting up my dotfiles, I found out that there is not a single usable  terminal emulator on Windows:
+ - Windows version of Alacritty cannot display some character in the right way. Tmux's status line become weird after stretching the window. 
+ - Fluent Terminal looks nice but tmux's status line will disappear in some cases. 
+ - ConEmu does not support dialog very well, etc.
 
-So I enabled WSL, installed openSUSE and Arch. After setting up my dotfiles, I found out that there is not a single usable terminal emulator on Windows:
- - Windows version of Alacritty cannot display some character in the right way. Tmux's status line become weird after stretching the window.
- - Fluent Terminal looks nice but Tmux's status line will disappear in some cases.
- - ConEmu does not support dialog very well.
+And vim does not work well in those terminal emulators, especially for syntax highlighting (colors become indistinguishable). Seems these situations are caused by ConHost and people who build those terminal emulators cannot fix that on  their own. I know they tried their best.
 
-And vim does not work well in those terminal emulators, especially for the syntax highlighting part. Seems these situations are caused by ConHost and people who build those terminal emulators cannot fix that on their own.
-
-~~Macrohard~~ Microsoft said that they are going to fix that and released Windows Terminal at Build 2019, so I downloaded a Dev build from their CI. Thought it is somewhat usable, I found out that:
- - Colors are still not correct in some cases.
+~~Macrohard~~ Microsoft said they are going to fix that and released Windows Terminal at Build 2019, I'm very glad they are working on it.  But after I downloading a Dev build from their CI, I found out that:
+ - Colors are still not 100% correct in some cases, though it's still a huge improvement from the previous ConHost.
  - Does not support mouse interaction (e.g. tmux's mouse mode and vim).
- - High CPU and memory usage. After opening 5-6 tabs, it uses 20% of my CPU and over 3GB of RAM, plus 20% usage on CPU by Antimalware service. Performance also become unacceptable in this case, I can even see how each character is printed out.
+ - High CPU and RAM usage. After opening 5-6 tabs, it uses 20% of my CPU (which is a 6th-gen Shintel Core i7) and over 3GB of RAM, plus another 20% usage on CPU by Antimalware service.  Performance also become unacceptable in this case, I can even see how  each character is printed out.
 
-After searching for resolutions, I found that someone said we can use SSH clients as there are some good SSH clients on Windows. But there are still some problems:
- - WSL does not have a real init, so distributions with "pure" systemd cannot start sshd as a daemon service unless start by hand.
- - Even though some distribution can start sshd through RC scripts, it still needs some sort of interaction.
+After searching for resolutions, I found that someone said we can use SSH clients as there are some decent SSH clients on Windows. But there are still some problems:
+ - WSL does not have a real init system and service manager, so distributions with "pure" systemd only cannot start sshd as a daemon unless start by hand.
+ - Even though some distribution can start sshd through RC scripts, it still needs some sort of interaction. 
 
-Then I done a little bit of searching and found no tools can start sshd on boot (maybe it exists, but I did't see it). So I wrote one.
+Then I done a little bit of searching and found no suitable tools can start sshd  on boot (maybe it exists, but I just didn't see it). So I wrote one : )
 
-![Screenshot](../img/wsl_ssh_screenshot.png)
+![Screenshot](../img/wsl_ssh_screenshot.png)  
+(I think the interface is pretty straight forward)
 
-I was planning to make a UWP one but I don't know how to do it so I just made it with WPF. It's my first WPF program so...
+I was planning to make a UWP one but I don't know how to do it so I just made it with WPF. It's my first WPF program so… Yea it's ugly and I don't really know how to design a UI.
 
 It has the basic functionalities I need, but still, with some issues:
  - Window cannot be resized, because I don't know how to make it resizable in the correct way.
+ - Microsoft says WPF supports HiDPi, but I didn't test it since I don't have that kind of device.
  - It cannot stop the sshd process only, instead, it will kill all the WSL instance of that specific distribution:
-   - I wrapped the WSL process with BackgroundWorker, but I don't know how to stop a process inside a BackgroundWorker.
+   - I wrapped the WSL process with BackgroundWorker, but I don’t know how to stop a process inside a BackgroundWorker, my bad.
    - WSL instances are isolated so I cannot start a new process and kill the process in the previous WSL instance.
+     - Sometimes it's not... I'm really confused.
    - So I did it in this way.
- - Its logo is ugly. I know nothing about designing.
+ - Again, it's extremely ugly.
  - Lacks error handling.
 
-But it is at least it works!
+But at least it works!
 
 Source code:  
 [https://github.com/RedL0tus/WSL_SSH_Launcher](https://github.com/RedL0tus/WSL_SSH_Launcher)
