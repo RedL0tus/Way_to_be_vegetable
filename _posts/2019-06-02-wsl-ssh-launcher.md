@@ -42,9 +42,17 @@ It has the basic functionalities I need, but still, with some issues:
  - Its logo is ugly. I know nothing about designing.
  - Lacks error handling.
 
-But it is at lease somehow usable!
+But it is at least it works!
 
-Source code: https://github.com/RedL0tus/WSL_SSH_Launcher
+Source code:  
+[https://github.com/RedL0tus/WSL_SSH_Launcher](https://github.com/RedL0tus/WSL_SSH_Launcher)
+
+GitHub Release:  
+[https://github.com/RedL0tus/WSL_SSH_Launcher/releases](https://github.com/RedL0tus/WSL_SSH_Launcher/releases)
+
+Macrohard store：  
+<a href='//www.microsoft.com/store/apps/9NRPB1HPKK8G?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' style='width: 284px; height: 104px;'/></a>  
+Tip: Unlimited free trial is offered.
 
 <div id="en-privacy-policy"></div>
 
@@ -86,7 +94,17 @@ Privacy policy: It does not access anything other than it's configuration and th
 
 但是它至少能用了嘛！
 
-源码： https://github.com/RedL0tus/WSL_SSH_Launcher
+源码:  
+[https://github.com/RedL0tus/WSL_SSH_Launcher](https://github.com/RedL0tus/WSL_SSH_Launcher)
+
+GitHub Release:  
+[https://github.com/RedL0tus/WSL_SSH_Launcher/releases](https://github.com/RedL0tus/WSL_SSH_Launcher/releases)
+
+巨硬商店：  
+<a href='//www.microsoft.com/store/apps/9NRPB1HPKK8G?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/42e5aa4a-f19a-4205-9191-a97105ed7663/Chinese_Simplified_get-it-from-MS_InvariantCulture_Default.png' alt='Chinese badge' style='width: 284px; height: 104px;'/></a>  
+提示： 提供了不限时间的免费试用，或者可以去 GitHub Release 直接下载 .exe。就把这里这个收费当捐赠吧 ：）
+
+~~绝赞盈利尝试 \#1~~
 
 <div id="zh-privacy-policy"></div>
 
