@@ -18,10 +18,8 @@ permalink: /about-zh/
     - 书买到了，造了两个轮子，感觉海星。
 
 - 我的设备：
-  - ThinkPad P50 (20ENCTO1WW) 运行着 [AOSC OS](https://aosc.io) GNU/Linux。
-  - ThinkPad X220 (42918G1) 运行着 [NixOS](https://nixos.org)。
-  - ThinkPad 360C 运行着 Windows 95 (Flying toasters!)。
-  - 某个水果的 iBook G4 14 吋 @ 1.42GHz 正在吃灰，上次换了硬盘之后就基本没动过了 (这机器我现在看着心烦，拆起来实在太磨人了)。
+  - ~~永远怀念 ThinkPad P50 (20ENCTO1WW) 猝与 2019 年 12 月 14 日。~~
+  - T2 2019 (A1989)。
   - Lilac 跑的原厂 Android，还没解锁。
   - Bullhead 现在是基于 Halium 的 Plasma Mobile，经常刷所以不一定。
   - Hammerhead 跑的 Android。
@@ -62,5 +60,4 @@ permalink: /about-zh/
 
 捐助：请访问 <a href="https://v2bv.net/donate">https://v2bv.net/donate</a>。
 
-<a href="https://my.fsf.org/register_form?referrer=1311599"><img src="https://static.fsf.org/nosvn/associate/crm/1311599.png" alt="加入 FSF!" border="0"></a>
 <a href="https://www.eff.org/join"><img src="https://www.eff.org/files/eff-banner.jpg" alt="加入 EFF!" border="0"></a><br />
